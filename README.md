@@ -1,6 +1,6 @@
 ## Governing Equations
 
-2-dimensional Navier-Stokes with temperature transport in MATLAB.
+2-dimensional Navier-Stokes with Boussinesq approximation in MATLAB.
 
 ### Continuity
 $\frac{\partial u_j}{\partial x_j} = 0$
