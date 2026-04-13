@@ -128,7 +128,7 @@ while t < t_end
 end
 
 
-%% Functions
+% Functions
 function [ddx_forward,ddx_backward,d2dx2] = x_operator(nx,dx)
     % forward, backward, central, and laplace matrix operators for periodic x
     % Spdiags documentation
