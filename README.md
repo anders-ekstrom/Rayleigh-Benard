@@ -3,9 +3,7 @@
 The flow is governed by the incompressible Boussinesq equations in nondimensional form.
 
 ### Continuity
-\[
-\frac{\partial u_j}{\partial x_j} = 0
-\]
+$\frac{\partial u_j}{\partial x_j} = 0$
 
 ### Momentum
 \[
