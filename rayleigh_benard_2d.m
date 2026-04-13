@@ -4,7 +4,7 @@
 %       temporal, pressure projection)
 %       periodic in x, no slip at y=(0,H), theta dirichlet BC at y=(0,H)
 %       u is nx x ny, stored at x faces and y centers
-%       v is nx x (ny+1), stored at y faces
+%       v is nx x (ny+1), stored at y faces and x centers
 %       theta is nx x (ny+2), stored at cell centers with ghost points
 %%
 clc
