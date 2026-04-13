@@ -1,6 +1,6 @@
 ## Governing Equations
 
-The flow is governed by the incompressible Boussinesq equations in nondimensional form.
+2-dimensional Navier-Stokes with temperature transport in MATLAB.
 
 ### Continuity
 $\frac{\partial u_j}{\partial x_j} = 0$
